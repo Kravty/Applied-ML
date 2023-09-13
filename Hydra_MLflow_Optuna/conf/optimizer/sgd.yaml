@@ -1,0 +1,5 @@
+_target_: torch.optim.SGD
+momentum: 0.9
+dampening: 0  # dampening for momentum
+weight_decay: 0
+nesterov: False

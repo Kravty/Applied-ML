@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/54b14d1a52244be682c1de77ec391b84/artifacts
+end_time: 1694585933355
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: 54b14d1a52244be682c1de77ec391b84
+run_name: marvelous-perch-216
+run_uuid: 54b14d1a52244be682c1de77ec391b84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694585755231
+status: 3
+tags: []
+user_id: unknown

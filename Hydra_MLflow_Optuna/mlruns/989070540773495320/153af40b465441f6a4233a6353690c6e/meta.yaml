@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/153af40b465441f6a4233a6353690c6e/artifacts
+end_time: 1694618905460
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: 153af40b465441f6a4233a6353690c6e
+run_name: rumbling-bird-98
+run_uuid: 153af40b465441f6a4233a6353690c6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694618666410
+status: 3
+tags: []
+user_id: unknown

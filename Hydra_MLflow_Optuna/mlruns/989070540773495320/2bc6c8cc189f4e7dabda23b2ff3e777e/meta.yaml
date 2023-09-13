@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/2bc6c8cc189f4e7dabda23b2ff3e777e/artifacts
+end_time: 1694624067589
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: 2bc6c8cc189f4e7dabda23b2ff3e777e
+run_name: nervous-fish-973
+run_uuid: 2bc6c8cc189f4e7dabda23b2ff3e777e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694623934072
+status: 3
+tags: []
+user_id: unknown

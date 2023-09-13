@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/da6b2a59a06743689725c73274d59e35/artifacts
+end_time: 1694586766779
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: da6b2a59a06743689725c73274d59e35
+run_name: fearless-fly-289
+run_uuid: da6b2a59a06743689725c73274d59e35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694586589437
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/61d4ef0e72024a6fb4e1615ecd57f008/artifacts
+end_time: 1694589384214
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: 61d4ef0e72024a6fb4e1615ecd57f008
+run_name: thoughtful-ray-956
+run_uuid: 61d4ef0e72024a6fb4e1615ecd57f008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694589065101
+status: 3
+tags: []
+user_id: unknown

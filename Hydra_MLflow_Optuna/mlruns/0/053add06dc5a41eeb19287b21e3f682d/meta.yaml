@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/0/053add06dc5a41eeb19287b21e3f682d/artifacts
+deleted_time: 1694337393164
+end_time: 1694337253134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 053add06dc5a41eeb19287b21e3f682d
+run_name: sassy-lamb-12
+run_uuid: 053add06dc5a41eeb19287b21e3f682d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694337253008
+status: 3
+tags: []
+user_id: mateuszkow

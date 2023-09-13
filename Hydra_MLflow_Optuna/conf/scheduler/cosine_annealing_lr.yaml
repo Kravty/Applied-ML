@@ -1,0 +1,4 @@
+_target_: torch.optim.lr_scheduler.CosineAnnealingLR
+T_max : ${params.epochs}  # maximum number of iteration
+eta_min: 0.5  # minimum learning rate
+verbose: False

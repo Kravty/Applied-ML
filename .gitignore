@@ -1,0 +1,8 @@
+Hydra_MLflow_Optuna/multirun
+Hydra_MLflow_Optuna/outputs
+Hydra_MLflow_Optuna/mlruns/**/artifacts/model
+Hydra_MLflow_Optuna/mlruns/**/artifacts/*.pth
+Hydra_MLflow_Optuna/.idea/
+Hydra_MLflow_Optuna/data/pets_facial_expression/
+Hydra_MLflow_Optuna/data/people_facial_expression/
+Hydra_MLflow_Optuna/src/__pycache__/

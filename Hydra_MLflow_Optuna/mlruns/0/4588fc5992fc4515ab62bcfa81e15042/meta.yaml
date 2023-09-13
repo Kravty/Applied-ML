@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/0/4588fc5992fc4515ab62bcfa81e15042/artifacts
+deleted_time: 1694337675709
+end_time: 1694337445534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4588fc5992fc4515ab62bcfa81e15042
+run_name: aged-toad-814
+run_uuid: 4588fc5992fc4515ab62bcfa81e15042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694337445440
+status: 3
+tags: []
+user_id: mateuszkow

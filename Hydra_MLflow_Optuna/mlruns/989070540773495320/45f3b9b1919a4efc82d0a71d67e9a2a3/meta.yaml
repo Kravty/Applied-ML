@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/45f3b9b1919a4efc82d0a71d67e9a2a3/artifacts
+end_time: 1694621549291
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: 45f3b9b1919a4efc82d0a71d67e9a2a3
+run_name: blushing-asp-321
+run_uuid: 45f3b9b1919a4efc82d0a71d67e9a2a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694621416556
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/2af00064f4bb4d9eaf3c22e3710e5d5d/artifacts
+end_time: 1694584987468
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: 2af00064f4bb4d9eaf3c22e3710e5d5d
+run_name: rare-colt-509
+run_uuid: 2af00064f4bb4d9eaf3c22e3710e5d5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694584953214
+status: 3
+tags: []
+user_id: unknown

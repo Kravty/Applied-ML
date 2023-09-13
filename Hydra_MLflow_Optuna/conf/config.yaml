@@ -1,0 +1,55 @@
+defaults:
+  - dataset: pets_facial_expression  # choice [people_facial_expression, pets_facial_expression]
+  - augmentations: default_augmentations
+  - optimizer: sgd  # choice [adam, adamw, sgd]
+  - scheduler: step_lr_scheduler  # choice [step_lr_scheduler, cosine_annealing_lr]
+  - override hydra/sweeper: optuna
+  - override hydra/sweeper/sampler: tpe
+
+hydra:
+  sweeper:
+    direction: maximize
+    study_name: null
+    storage: null
+    n_trials: 40
+    n_jobs: 4
+    sampler:
+      seed: 42
+    params: 
+      params.learning_rate: tag(log, interval(0.0001, 0.1))  # use logarithmic scale for lr choice
+      optimizer: choice(adam, adamw, sgd)
+      scheduler: choice(step_lr_scheduler, cosine_annealing_lr)
+      model.model_type: choice(mobilenet_v3_l, efficientnet_b0, shufflenet_v2_x2_0)
+      model.freeze_backbone: choice(True, False)
+  
+params:
+  device: cuda
+  epochs: 20
+  learning_rate: 1e-2
+  batch_size: 64
+  seed: 42
+
+model:
+  model_type: efficientnet_b0  # choice [mobilenet_v3_l, efficientnet_b0, shufflenet_v2_x2_0]
+  freeze_backbone: False
+  criterion:
+    _target_: torch.nn.CrossEntropyLoss
+    label_smoothing: 0.0  
+
+paths:
+  log_file: ./runs
+  data: ${hydra:runtime.cwd}/../data/raw
+  model_checkpoint: best_model.pth
+
+params_to_log:
+  epochs: ${params.epochs}
+  learning_rate: ${params.learning_rate}
+  model_type: ${model.model_type}
+  freeze_backbone: ${model.freeze_backbone}
+  label_smoothing: ${model.criterion.label_smoothing}
+  optimizer: ${optimizer._target_}
+  scheduler: ${scheduler._target_}
+
+
+# if true, simulate a failure by raising an exception
+error: false

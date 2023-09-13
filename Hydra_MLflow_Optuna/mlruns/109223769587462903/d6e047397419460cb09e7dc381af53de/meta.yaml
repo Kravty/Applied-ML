@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/d6e047397419460cb09e7dc381af53de/artifacts
+end_time: 1694595548969
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: d6e047397419460cb09e7dc381af53de
+run_name: clumsy-fawn-75
+run_uuid: d6e047397419460cb09e7dc381af53de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694595135094
+status: 3
+tags: []
+user_id: unknown

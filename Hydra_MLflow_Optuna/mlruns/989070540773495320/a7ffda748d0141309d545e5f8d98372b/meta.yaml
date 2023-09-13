@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/a7ffda748d0141309d545e5f8d98372b/artifacts
+end_time: 1694625044449
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: a7ffda748d0141309d545e5f8d98372b
+run_name: righteous-shrimp-640
+run_uuid: a7ffda748d0141309d545e5f8d98372b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694624745384
+status: 3
+tags: []
+user_id: unknown

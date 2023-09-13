@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/d9509c88fc1e40c2bfea1c3ed1103173/artifacts
+end_time: 1694619471943
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: d9509c88fc1e40c2bfea1c3ed1103173
+run_name: nimble-fly-425
+run_uuid: d9509c88fc1e40c2bfea1c3ed1103173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694619243315
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/80ce6085c5ff497f99d3263d37d42af0/artifacts
+end_time: 1694594021464
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: 80ce6085c5ff497f99d3263d37d42af0
+run_name: sassy-dolphin-738
+run_uuid: 80ce6085c5ff497f99d3263d37d42af0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694593851234
+status: 3
+tags: []
+user_id: unknown

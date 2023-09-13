@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/95359cb6e2b1474eb171a045fc826e4f/artifacts
+end_time: 1694621282580
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: 95359cb6e2b1474eb171a045fc826e4f
+run_name: glamorous-ray-746
+run_uuid: 95359cb6e2b1474eb171a045fc826e4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694621149639
+status: 3
+tags: []
+user_id: unknown

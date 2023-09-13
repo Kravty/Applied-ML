@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/fe0d9d4c51cd4a51bfbdbaa413303dce/artifacts
+end_time: 1694625148676
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: fe0d9d4c51cd4a51bfbdbaa413303dce
+run_name: efficient-bird-47
+run_uuid: fe0d9d4c51cd4a51bfbdbaa413303dce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694625045879
+status: 3
+tags: []
+user_id: unknown

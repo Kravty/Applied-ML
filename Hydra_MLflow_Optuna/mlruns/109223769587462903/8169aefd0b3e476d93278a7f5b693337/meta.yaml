@@ -1,0 +1,16 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/8169aefd0b3e476d93278a7f5b693337/artifacts
+deleted_time: 1694531149188
+end_time: 1694443506619
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: deleted
+run_id: 8169aefd0b3e476d93278a7f5b693337
+run_name: handsome-gull-204
+run_uuid: 8169aefd0b3e476d93278a7f5b693337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694443323481
+status: 3
+tags: []
+user_id: unknown

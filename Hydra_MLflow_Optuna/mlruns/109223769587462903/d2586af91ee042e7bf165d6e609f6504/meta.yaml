@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/d2586af91ee042e7bf165d6e609f6504/artifacts
+end_time: 1694592813122
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: d2586af91ee042e7bf165d6e609f6504
+run_name: nervous-crab-990
+run_uuid: d2586af91ee042e7bf165d6e609f6504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694592549541
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/ac0c310e9bfb41be834ce5b5e06f0709/artifacts
+end_time: 1694614612247
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: ac0c310e9bfb41be834ce5b5e06f0709
+run_name: likeable-turtle-151
+run_uuid: ac0c310e9bfb41be834ce5b5e06f0709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694614408755
+status: 3
+tags: []
+user_id: unknown

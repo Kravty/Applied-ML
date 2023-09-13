@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/4245731ee6cf4c499f63adaa7bdfe170/artifacts
+end_time: 1694616696201
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: 4245731ee6cf4c499f63adaa7bdfe170
+run_name: mercurial-dove-2
+run_uuid: 4245731ee6cf4c499f63adaa7bdfe170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694616405774
+status: 3
+tags: []
+user_id: unknown

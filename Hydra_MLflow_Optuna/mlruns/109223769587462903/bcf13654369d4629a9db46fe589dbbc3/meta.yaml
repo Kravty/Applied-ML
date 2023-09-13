@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/bcf13654369d4629a9db46fe589dbbc3/artifacts
+end_time: 1694593632043
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: bcf13654369d4629a9db46fe589dbbc3
+run_name: skillful-goose-291
+run_uuid: bcf13654369d4629a9db46fe589dbbc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694593432328
+status: 3
+tags: []
+user_id: unknown

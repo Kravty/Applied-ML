@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/b05fa3dece334eb68a44abcfee421325/artifacts
+end_time: 1694596206348
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: b05fa3dece334eb68a44abcfee421325
+run_name: upbeat-croc-130
+run_uuid: b05fa3dece334eb68a44abcfee421325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694595949143
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/418e6fa7406140819e1375fa52505009/artifacts
+end_time: 1694620199862
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: 418e6fa7406140819e1375fa52505009
+run_name: caring-sloth-763
+run_uuid: 418e6fa7406140819e1375fa52505009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694620089679
+status: 3
+tags: []
+user_id: unknown

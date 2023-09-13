@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/3773182112394938a8b0c9bcdc0e2f7a/artifacts
+end_time: 1694618194296
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: 3773182112394938a8b0c9bcdc0e2f7a
+run_name: gentle-shark-246
+run_uuid: 3773182112394938a8b0c9bcdc0e2f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694618116148
+status: 3
+tags: []
+user_id: unknown

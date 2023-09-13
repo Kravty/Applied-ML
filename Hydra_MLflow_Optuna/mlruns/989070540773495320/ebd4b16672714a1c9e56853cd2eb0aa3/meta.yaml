@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/ebd4b16672714a1c9e56853cd2eb0aa3/artifacts
+end_time: 1694624371395
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: ebd4b16672714a1c9e56853cd2eb0aa3
+run_name: orderly-ox-777
+run_uuid: ebd4b16672714a1c9e56853cd2eb0aa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694624201486
+status: 3
+tags: []
+user_id: unknown

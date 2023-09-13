@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/c8419d21469b41ba9fa84a8371d9ca89/artifacts
+end_time: 1694587499297
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: c8419d21469b41ba9fa84a8371d9ca89
+run_name: bold-gnu-289
+run_uuid: c8419d21469b41ba9fa84a8371d9ca89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694587384969
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,16 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/19d649a96ae04b109a338d668c6641f8/artifacts
+deleted_time: 1694531149188
+end_time: 1694442953058
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: deleted
+run_id: 19d649a96ae04b109a338d668c6641f8
+run_name: peaceful-hawk-245
+run_uuid: 19d649a96ae04b109a338d668c6641f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694442923184
+status: 3
+tags: []
+user_id: unknown

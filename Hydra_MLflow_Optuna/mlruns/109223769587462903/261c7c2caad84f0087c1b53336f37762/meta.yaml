@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/261c7c2caad84f0087c1b53336f37762/artifacts
+end_time: 1694531350586
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: 261c7c2caad84f0087c1b53336f37762
+run_name: calm-snail-511
+run_uuid: 261c7c2caad84f0087c1b53336f37762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694531155463
+status: 3
+tags: []
+user_id: unknown

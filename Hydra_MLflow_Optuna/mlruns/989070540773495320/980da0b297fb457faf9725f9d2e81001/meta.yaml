@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/980da0b297fb457faf9725f9d2e81001/artifacts
+end_time: 1694623836174
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: 980da0b297fb457faf9725f9d2e81001
+run_name: intelligent-shad-424
+run_uuid: 980da0b297fb457faf9725f9d2e81001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694623666751
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,9 @@
+name: people_facial_expression
+num_classes: 8
+root_dir: ${hydra:runtime.cwd}/data/people_facial_expression
+data_dir: images
+labels: emotions.csv
+train_dev_test_split:
+  train: 0.8
+  dev: 0.1
+  test: 0.1

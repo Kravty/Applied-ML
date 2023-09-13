@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/4e2b0397ccf84f2e831d9b0d08c034a0/artifacts
+end_time: 1694597014987
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: 4e2b0397ccf84f2e831d9b0d08c034a0
+run_name: monumental-cow-308
+run_uuid: 4e2b0397ccf84f2e831d9b0d08c034a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694596775060
+status: 3
+tags: []
+user_id: unknown

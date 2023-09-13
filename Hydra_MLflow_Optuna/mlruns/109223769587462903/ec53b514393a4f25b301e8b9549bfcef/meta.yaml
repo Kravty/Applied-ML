@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/ec53b514393a4f25b301e8b9549bfcef/artifacts
+end_time: 1694588921242
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: ec53b514393a4f25b301e8b9549bfcef
+run_name: polite-colt-728
+run_uuid: ec53b514393a4f25b301e8b9549bfcef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694588639098
+status: 3
+tags: []
+user_id: unknown

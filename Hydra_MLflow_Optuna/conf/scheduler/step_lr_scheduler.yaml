@@ -1,0 +1,4 @@
+_target_: torch.optim.lr_scheduler.StepLR
+step_size : 10  # frequency of lr change for steplr (change lr every x epochs)
+gamma: 0.5  # decay rate at each step
+verbose: False

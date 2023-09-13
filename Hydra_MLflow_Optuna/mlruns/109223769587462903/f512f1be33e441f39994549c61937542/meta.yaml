@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/f512f1be33e441f39994549c61937542/artifacts
+end_time: 1694588340945
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: f512f1be33e441f39994549c61937542
+run_name: blushing-boar-840
+run_uuid: f512f1be33e441f39994549c61937542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694588206715
+status: 3
+tags: []
+user_id: unknown

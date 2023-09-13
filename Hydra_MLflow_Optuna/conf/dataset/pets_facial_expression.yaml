@@ -1,0 +1,5 @@
+name: pets_facial_expression
+num_classes: 4
+train_data: ${hydra:runtime.cwd}/data/pets_facial_expression/Master Folder/train
+dev_data: ${hydra:runtime.cwd}/data/pets_facial_expression/Master Folder/valid
+test_data: ${hydra:runtime.cwd}/data/pets_facial_expression/Master Folder/test

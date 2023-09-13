@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/2592bc9e025747bd88bf54aa10e9792f/artifacts
+end_time: 1694591302882
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: 2592bc9e025747bd88bf54aa10e9792f
+run_name: zealous-ape-351
+run_uuid: 2592bc9e025747bd88bf54aa10e9792f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694591245066
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mateuszkow/Desktop/Mateusz/GitHub/Hydra%20%26%20MLflow%20%26%20Optuna/mlruns/989070540773495320/686d486f19fe4807aade16fb742fc161/artifacts
+end_time: 1694623509291
+entry_point_name: ''
+experiment_id: '989070540773495320'
+lifecycle_stage: active
+run_id: 686d486f19fe4807aade16fb742fc161
+run_name: gifted-snipe-581
+run_uuid: 686d486f19fe4807aade16fb742fc161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694623404347
+status: 3
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file://C:\Users\mateuszkow\Desktop\Mateusz\GitHub\Hydra & MLflow & Optuna/mlruns/109223769587462903/b23adb4bddfa4c67852c6c932cbcefd8/artifacts
+end_time: 1694532909197
+entry_point_name: ''
+experiment_id: '109223769587462903'
+lifecycle_stage: active
+run_id: b23adb4bddfa4c67852c6c932cbcefd8
+run_name: wise-steed-397
+run_uuid: b23adb4bddfa4c67852c6c932cbcefd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694532747690
+status: 3
+tags: []
+user_id: unknown
