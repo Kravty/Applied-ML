@@ -1,5 +1,6 @@
 Hydra_MLflow_Optuna/multirun
 Hydra_MLflow_Optuna/outputs
+Hydra_MLflow_Optuna/mlruns
 Hydra_MLflow_Optuna/mlruns/**/artifacts/model
 Hydra_MLflow_Optuna/mlruns/**/artifacts/*.pth
 Hydra_MLflow_Optuna/.idea/

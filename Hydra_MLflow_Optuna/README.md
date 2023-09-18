@@ -11,6 +11,10 @@ Make sure you have `Python>=3.6` installed on your machine. You can install requ
 
     pip install -r requirements.txt
 
+Moreover, you will need PyTorch installed. Due to different cuda version requirements, I haven't included it in *requirements.txt*. To install PyTorch, follow the instructions from the PyTorch website:
+* [Current PyTorch version](https://pytorch.org/get-started/locally)
+* [Previous versions](https://pytorch.org/get-started/previous-versions/) (if you have an older cuda version)
+
 <!-- ### Colab
 If you would like to run this repository but don't have GPU or simply don't want to pull it to your PC, then you can use the Colab link below, where the repository is pulled and run. -->
 
@@ -77,6 +81,9 @@ A few ways to trigger model training are possible:
 * Using Optuna to automatically choose best hyperparameters in several runs:
 
         python main.py --multirun
+
+Warning! If you have cloned this repository, remove subdirectories of mlruns to avaid PermissionError.
+
 
 ### Results
 Results of runs are stored in the mlruns folder so that, can be easily viewed locally using MLflow in the repository directory:
