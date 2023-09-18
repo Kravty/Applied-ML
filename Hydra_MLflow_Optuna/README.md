@@ -15,10 +15,11 @@ Moreover, you will need PyTorch installed. Due to different cuda version require
 * [Current PyTorch version](https://pytorch.org/get-started/locally)
 * [Previous versions](https://pytorch.org/get-started/previous-versions/) (if you have an older cuda version)
 
-<!-- ### Colab
-If you would like to run this repository but don't have GPU or simply don't want to pull it to your PC, then you can use the Colab link below, where the repository is pulled and run. -->
+### Colab
 
-<!-- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](demo/hydra_mlflow_optuna.ipynb) -->
+If you would like to run this repository but don't have GPU or simply don't want to pull it to your PC, then you can use the Colab link below, where the repository is pulled and run.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](demo/Hydra_MLflow_Optuna.ipynb)
 
 
 #
